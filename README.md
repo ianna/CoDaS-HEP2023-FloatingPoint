@@ -1,3 +1,7 @@
+<div>
+<img src="slides/img/IRIS-HEP%20logo.png" width="200" align="right"/>
+</div>
+
 # CoDaS-HEP2023:
 ## Floating-point Arithmetic is not Real
 ### Outline
