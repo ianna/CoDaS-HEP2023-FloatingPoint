@@ -4,6 +4,11 @@
 
 # CoDaS-HEP2023:
 ## Floating-point Arithmetic is not Real
+
+<div>
+<img src="slides/img/Princeton%20logo.png" width="150" align="right"/>
+</div>
+
 ### Outline
 * Real numbers
 * Holes in the Value Range
@@ -16,4 +21,7 @@
 * Basic understanding of computer representation of numbers
 * Basic understanding of floating point arithmetic
 * Consequences of floating point arithmetic for scientific computing
-* Basic understanding about fast math 
+* Basic understanding about fast math
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7081586.svg)](https://doi.org/10.5281/zenodo.7081586)
+
