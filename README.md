@@ -12,7 +12,7 @@
 ### Outline
 * [Real numbers](slides/real_numbers/5.Real_Numbers.md)
 * Holes in the Value Range
-* Floating-point Number Systems
+* [Floating-point Number Systems](slides/real_numbers/9.Floating-point_Number_Systems.md)
 * The IEEE Standard 754
 * Limits of Floating-point Arithmetics
 * Floating-point Guidelines
