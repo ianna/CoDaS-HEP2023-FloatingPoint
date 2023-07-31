@@ -23,5 +23,4 @@
 * Consequences of floating point arithmetic for scientific computing
 * Basic understanding about fast math
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7081586.svg)](https://doi.org/10.5281/zenodo.7081586)
 
