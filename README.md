@@ -10,9 +10,9 @@
 </div>
 
 ### Outline
-* [Real numbers](slides/real_numbers/5.Real_Numbers.md)
+* [Real numbers](slides/5.Real_Numbers.md)
 * Holes in the Value Range
-* [Floating-point Number Systems](slides/real_numbers/9.Floating-point_Number_Systems.md)
+* [Floating-point Number Systems](slides/9.Floating-point_Number_Systems.md)
 * The IEEE Standard 754
 * Limits of Floating-point Arithmetics
 * Floating-point Guidelines
@@ -22,5 +22,3 @@
 * Basic understanding of floating point arithmetic
 * Consequences of floating point arithmetic for scientific computing
 * Basic understanding about fast math
-
-
