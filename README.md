@@ -13,7 +13,7 @@
 * [Real numbers](slides/5.Real_Numbers.md)
 * Holes in the Value Range
 * [Floating-point Number Systems](slides/9.Floating-point_Number_Systems.md)
-* The IEEE Standard 754
+* [The IEEE Standard 754](slides/22.The_IEEE_Standard_754.md)
 * Limits of Floating-point Arithmetics
 * Floating-point Guidelines
 * Approximate Math
