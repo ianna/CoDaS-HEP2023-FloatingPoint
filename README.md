@@ -2,7 +2,7 @@
 <img src="slides/img/IRIS-HEP%20logo.png" width="200" align="right"/>
 </div>
 
-# CoDaS-HEP2023:
+# [CoDaS-HEP2023](https://indico.cern.ch/event/1287965/timetable/):
 ## [Floating-point Arithmetic is not Real](https://indico.cern.ch/event/1287965/contributions/5411743/attachments/2687210/4662439/Floating-point%20Arithmetic%20is%20not%20Real.pdf)
 
 <div>
